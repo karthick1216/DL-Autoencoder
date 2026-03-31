@@ -152,11 +152,8 @@ visualize_denoising(model, test_loader)
 ```
 
 ### OUTPUT
-<img width="998" height="652" alt="image" src="https://github.com/user-attachments/assets/7393a1d4-5462-43ad-b84e-f9d804f14260" />
-<img width="624" height="51" alt="image" src="https://github.com/user-attachments/assets/0ced9cd8-9f8f-4fba-8467-b169506c2376" />
-<img width="448" height="154" alt="image" src="https://github.com/user-attachments/assets/295454a7-d743-4ac1-8a72-41a0e8906e57" />
-<img width="624" height="51" alt="image" src="https://github.com/user-attachments/assets/0ced9cd8-9f8f-4fba-8467-b169506c2376" />
-<img width="1265" height="398" alt="image" src="https://github.com/user-attachments/assets/b1426642-634f-4f39-a553-b298b1306082" />
+![WhatsApp Image 2026-03-31 at 10 14 44 AM](https://github.com/user-attachments/assets/6099c67b-41c0-4012-8212-fa39805c263d)
+![WhatsApp Image 2026-03-31 at 10 16 10 AM](https://github.com/user-attachments/assets/0cdfa859-603d-4510-91b0-c2a4979c7a68)
 
 ## RESULT
 The Convolutional Autoencoder successfully removed noise from images, producing clearer images that are close to the original clean images. The model effectively learned image features and improved image quality.
